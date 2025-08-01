@@ -1,0 +1,27 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f6f6f6;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background: #000;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+nav a {
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+}
+#acc-container, #admin-acc-list, #orders {
+  padding: 20px;
+}
+.card {
+  background: white;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
